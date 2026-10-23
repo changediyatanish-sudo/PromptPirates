@@ -1,4 +1,4 @@
-# SPEC.md: Chronos Sudoku
+# SPEC.md: Sudoku Paradox
 
 Single `index.html` (vanilla JS + DOM grid), levels loaded from `levels.json`. No build step.
 
